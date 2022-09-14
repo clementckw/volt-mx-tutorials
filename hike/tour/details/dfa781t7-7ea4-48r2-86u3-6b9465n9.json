@@ -1,0 +1,27 @@
+{
+  "tourDetails": {
+    "nid": 24423,
+    "title": "Flex Layout Properties",
+    "created": 1585629086,
+    "updated": 1615281519,
+    "fileSize": "23.26 KB",
+    "fileName": "flexpropertiesv9.zip",
+    "fid": 17802,
+    "checksum": "a11d74fe9f1d01ba4359758946cc06e5cbc5229d9895ebbd788a77111ea5da24",
+    "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/flex-layout-properties-0",
+    "alias": "hikes/tour/flex-layout-properties-0",
+    "description": "Manage flex layout using properties.",
+    "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Set properties to a Button widget</li> <li>Align a button across the X and Y axis</li> <li>Explore the zIndex property</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+    "cards": 15,
+    "time": "16 Mins",
+    "platformVersion": "Iris 9.0",
+    "category": [
+      "Develop the Front End"
+    ],
+    "image": "/default/hike-default.png",
+    "kuid": "dfa781t7-7ea4-48r2-86u3-6b9465n9",
+    "hikeVersion": "1.0",
+    "weight": "3",
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
+  }
+}
